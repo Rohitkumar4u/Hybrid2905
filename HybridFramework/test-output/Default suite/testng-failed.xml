@@ -5,8 +5,10 @@
     <classes>
       <class name="com.test.LoginTest">
         <methods>
+          <include name="closeWindow"/>
           <include name="setup"/>
-          <include name="logintest"/>
+          <include name="loginTest"/>
+          <include name="registerLinkTest"/>
         </methods>
       </class> <!-- com.test.LoginTest -->
     </classes>
